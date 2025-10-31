@@ -1,1 +1,1 @@
-This repo contains files for Python practicing for AI.
+This repo contains .ipynb files for Python practicing for AI.
